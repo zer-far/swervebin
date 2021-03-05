@@ -1,8 +1,8 @@
 {
-	"name": "Hastebin Plus",
-	"description": "Hastebin Plus is an open-source Pastebin software written in node.js.",
-	"repository": "https://github.com/MarvinMenzerath/HastebinPlus",
-	"logo": "https://raw.githubusercontent.com/MarvinMenzerath/HastebinPlus/master/static/favicon.png",
+	"name": "SwerveBin",
+	"description": "SwerveBin is an open-source Pastebin software written in node.js.",
+	"repository": "https://github.com/zer-far/swervebin",
+	"logo": "https://raw.githubusercontent.com/zer-far/swervebin/master/static/favicon.png",
 	"keywords": [
 		"node",
 		"paste",
